@@ -1,6 +1,8 @@
 # plsql_developer_idea_theme
 
-Theme for Allround Automations PL/SQL Developer 15. Consists of beautifier rules, colored highlighting, custom words &amp; so on in the style of Intellij IDEA
+Theme, settings & rules for Allround Automations PL/SQL Developer 15. Consists of beautifier rules, colored highlighting, custom words and so on to code in the style of Intellij IDEA editor.
+
+![Screenshot](demo_image.png)
 
 ## Prerequisites
 
